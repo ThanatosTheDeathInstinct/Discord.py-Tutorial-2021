@@ -71,6 +71,7 @@ Examples
 --------------
 
 .. code:: py
+   
    import discord
 
     client = discord.client(command_prefix = '!')
@@ -86,9 +87,10 @@ Examples
         if message.content == 'hello':
             await message.channel.send('hello there!')
 
-client = MyClient()
-client.run('token')
-
+      client = MyClient()
+      client.run('token')
+bot
+-----
 .. code:: py
 
     from discord.ext import commands
