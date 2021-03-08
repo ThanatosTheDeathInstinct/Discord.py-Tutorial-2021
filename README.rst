@@ -104,7 +104,4 @@ bot
     bot.run('token') 
 
 
-My discord Server
-------
 
-- `Discord <https://discord.gg/c5Ud6vqf6b>`_
